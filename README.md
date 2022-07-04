@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently studying on SSAFY
-- 🌱 I’m currently learning algorithm, django, DB
-- 🤔 I’m looking for help with professor Oh
+- 🌱 I’m currently learning algorithm(python), Django, DB(mySQL), Vue, JavaScript  
+- 🤔 I’m looking for help... 
 - 📫 How to reach me: check out my account on instagram! @zien_choi
-- fun fact: i ve been studying python only for 4 months..!
+- fun fact: i ve been studying coding only for 6 months..!
