@@ -4,7 +4,7 @@
 
 ## 기술 스택
 *language*
-https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg java
+<img src="https://camo.githubusercontent.com/5d8f10d34ebf49b459c6747dff496c18f5100d8fa8229ddbb88ddc0efd494279/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;">
 <hr>
 *frontend*
 
