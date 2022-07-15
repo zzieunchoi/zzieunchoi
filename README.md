@@ -4,6 +4,25 @@
 
 ## 기술 스택
 *language*
+https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg java
+<hr>
+*frontend*
+
+<hr>
+*backend*
+
+<hr>
+*extra*
+
+<hr>
+
+## 자격증(Certificate)
+
+
+## 교육(Education)
+
+
+## 프로젝트(Project)
 
 
 - 🔭 I’m currently studying on SSAFY
