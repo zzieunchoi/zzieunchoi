@@ -45,11 +45,19 @@ AWS 배포경험(예정) <img src="https://raw.githubusercontent.com/devicons/de
 
 ## 프로젝트(Project)
 
-- Movie Curators (영화 정보 제공, 영화 추천 커뮤니티) [22.05]
-  - 개요 : 삼성청년SW아카데미 7기 관통 **최우수프로젝트(1등)**
+- GG MOVIE (영화 정보 제공, 영화 추천 커뮤니티) [22.05]
+  - 삼성청년SW아카데미 7기 관통 **최우수프로젝트(1등)**
   - Github with README : https://github.com/zzieunchoi/ggmovie
   - 핵심 컨셉 : Django, OPEN API와 외부 데이터를 활용한 영화 추천 서비스
   - 역할: 아이디어 기획 및 프론트엔드, 사용자 중심의 UI 구상
+- OnSikGo(마감 할인 상품 정보 공유 페이지) [22.07.11 - 22.08.19]
+  - GitHub with README
+    - 데일리 스크럼: https://github.com/zzieunchoi/onsikgo
+    - 코드 및 서비스:
+
+  - 핵심 컨셉: Vue와 Spring Boot를 이용한 마감 할인 상품 정보 공유 페이지, 점주와 소비자의 커뮤니케이션
+  - 역할: 아이디어 기획 및 프론트엔드
+
 
 
 
