@@ -40,6 +40,7 @@ AWS 배포경험(예정) <img src="https://raw.githubusercontent.com/devicons/de
 - 한국외국어대학교 베트남어과 / 통계학과 [2016.03 - 2022.02]
 - 삼성 청년 소프트웨어 아카데미(SSAFY) [22.01 - 22.12]
   - 1학기 최종 프로젝트 경진대회 최우수상 (프로젝트명 : GG Movie)
+  - 2학기 공통 프로젝트 경진대회 우수상 (프로젝트명: OnSikGo)
 
 
 
@@ -50,13 +51,29 @@ AWS 배포경험(예정) <img src="https://raw.githubusercontent.com/devicons/de
   - Github with README : https://github.com/zzieunchoi/ggmovie
   - 핵심 컨셉 : Django, OPEN API와 외부 데이터를 활용한 영화 추천 서비스
   - 역할: 아이디어 기획 및 프론트엔드, 사용자 중심의 UI 구상
+
+
+
 - OnSikGo(마감 할인 상품 정보 공유 페이지) [22.07.11 - 22.08.19]
   - GitHub with README
     - 데일리 스크럼: https://github.com/zzieunchoi/onsikgo
-    - 코드 및 서비스:
+    - 코드 및 서비스: https://github.com/Jihun0224/OnSikGo (fork  할 예정)
 
   - 핵심 컨셉: Vue와 Spring Boot를 이용한 마감 할인 상품 정보 공유 페이지, 점주와 소비자의 커뮤니케이션
-  - 역할: 아이디어 기획 및 프론트엔드
+  - 역할: 아이디어 기획 및 프론트엔드, 중간-최종발표자
+
+
+
+- 특화 프로젝트 [22.08.22 - 22.10.07]
+  - GitHub with README
+    - 코드 및 서비스(팀별):
+    - 배운 내용 및 느낀점(개인별)
+      - https://github.com/zzieunchoi/myacaive/tree/master/project/special_pjt
+      - 
+
+  - 핵심컨셉: 
+  - 역할
+
 
 
 
