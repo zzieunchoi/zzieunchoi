@@ -4,13 +4,13 @@
 
 ## 기술 스택
 ### LANGUAGE
-python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
+python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">  TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
 
 
 
 ### FRONTEND
 
-Vue <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+Vue <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> React-Native 
 
 
 
@@ -66,13 +66,12 @@ AWS 배포경험(예정) <img src="https://raw.githubusercontent.com/devicons/de
 
 - 특화 프로젝트 [22.08.22 - 22.10.07]
   - GitHub with README
-    - 코드 및 서비스(팀별):
-    - 배운 내용 및 느낀점(개인별)
-      - https://github.com/zzieunchoi/myacaive/tree/master/project/special_pjt
-      - 
-
-  - 핵심컨셉: 
-  - 역할
+    - 코드 및 서비스(팀별)
+      - 노션: https://www.notion.so/bfa2bd2b5a044c5ca422dab1f6c972da?v=d8a92eb7e1bc46d68bc53403602b1611
+      - github: 
+    
+  - 핵심컨셉: react-native와 typescript, AI, springboot를 이용한 사물인식 인공지능 기반 게임
+  - 역할: 프론트엔드
 
 
 
@@ -82,5 +81,5 @@ AWS 배포경험(예정) <img src="https://raw.githubusercontent.com/devicons/de
 
 
 - 🔭 I’m currently studying on SSAFY
-- 🌱 I’m currently learning algorithm(python), Django, DB(mySQL), Vue, JavaScript  
+- 🌱 I’m currently learning algorithm(python), Django, DB(mySQL), Vue, JavaScript, TypeScript, React-Native
 - 📫 How to reach me: check out my account on instagram! @zien_choi
