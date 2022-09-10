@@ -55,12 +55,15 @@ AWS 배포경험(예정) <img src="https://raw.githubusercontent.com/devicons/de
 
 
 - OnSikGo(마감 할인 상품 정보 공유 페이지) [22.07.11 - 22.08.19]
+  - 삼성청년SW아카데미 7기 공통(트랙: 웹디자인) **우수상**(부울경 2반 2등)
+  
   - GitHub with README
     - 데일리 스크럼: https://github.com/zzieunchoi/onsikgo
     - 코드 및 서비스: https://github.com/zzieunchoi/OnSikGo_pjt
-
+  
   - 핵심 컨셉: Vue와 Spring Boot를 이용한 마감 할인 상품 정보 공유 페이지, 점주와 소비자의 커뮤니케이션
   - 역할: 아이디어 기획 및 프론트엔드, 중간-최종발표자
+  
 
 
 
