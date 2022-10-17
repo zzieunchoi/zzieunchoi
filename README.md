@@ -69,15 +69,15 @@ AWS 배포경험(예정) <img src="https://raw.githubusercontent.com/devicons/de
 
 
 - 탐정 : 렌즈 속 비밀 [22.08.22 - 22.10.07]
-  - 삼성청년SW아카데미 7기 공통(트랙: 인공지능 AI) **우수상**(부울경 2반)
+  - 삼성청년SW아카데미 7기 공통(트랙: 인공지능 AI) **우수상**(부울경 1반 1등)
 
   - GitHub with README
     - 코드 및 서비스(팀별)
       - 노션: https://www.notion.so/bfa2bd2b5a044c5ca422dab1f6c972da?v=d8a92eb7e1bc46d68bc53403602b1611
-      - github: 
+      - github: https://github.com/zzieunchoi/cluelnlens
 
   - 핵심컨셉: react-native와 javascript, AI(pytorch, Yolov5), springboot, Unity, Blender를 이용한 사물인식 인공지능 기반 게임
-  - 역할: 프론트엔드, 데이터 수집, 유니티로 배경 제작
+  - 역할: 프론트엔드, 데이터 수집, 유니티로 배경 제작, 중간 발표자
 
 
 
