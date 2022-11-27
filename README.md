@@ -2,7 +2,7 @@
 
 Do you want what I did to be a frontend developer?
 
-Let's [포트폴리오 보러가기](jieun's portfolio.pdf)!!
+Let's [포트폴리오 보러가기](jieun's_portfolio.pdf)!!
 
 
 
