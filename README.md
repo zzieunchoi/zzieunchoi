@@ -1,5 +1,11 @@
 # Hi there 👋
 
+Do you want what I did to be a frontend developer?
+
+Let's [포트폴리오 보러가기](jieun's portfolio.pdf)!!
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Choi%20JiEun&fontSize=100)
 
 ## 기술 스택
@@ -56,30 +62,41 @@ AWS 배포경험(예정) <img src="https://raw.githubusercontent.com/devicons/de
 
 
 - OnSikGo(마감 할인 상품 정보 공유 페이지) [22.07.11 - 22.08.19]
-  - 삼성청년SW아카데미 7기 공통(트랙: 웹디자인) **우수상**(부울경 2반 2등)
+  - 삼성청년SW아카데미 7기 공통(트랙: 웹디자인) **우수상**(부울경 반 2등)
   
   - GitHub with README
     - 데일리 스크럼: https://github.com/zzieunchoi/onsikgo
     - 코드 및 서비스: https://github.com/zzieunchoi/OnSikGo_pjt
   
   - 핵심 컨셉: Vue와 Spring Boot를 이용한 마감 할인 상품 정보 공유 페이지, 점주와 소비자의 커뮤니케이션
-  - 역할: 아이디어 기획 및 프론트엔드, 중간-최종발표자
+  - 역할: 아이디어 기획 및 프론트엔드, 중간-최종발표자, UI UX 기획
   
 
 
 
 - 탐정 : 렌즈 속 비밀 [22.08.22 - 22.10.07]
-  - 삼성청년SW아카데미 7기 공통(트랙: 인공지능 AI) **우수상**(부울경 2반)
+  - 삼성청년SW아카데미 7기 특화(트랙: 인공지능 AI) **우수상**(부울경 반 1등)
 
   - GitHub with README
     - 코드 및 서비스(팀별)
       - 노션: https://www.notion.so/bfa2bd2b5a044c5ca422dab1f6c972da?v=d8a92eb7e1bc46d68bc53403602b1611
-      - github: 
+      - github: https://github.com/zzieunchoi/cluelnlens
 
   - 핵심컨셉: react-native와 javascript, AI(pytorch, Yolov5), springboot, Unity, Blender를 이용한 사물인식 인공지능 기반 게임
-  - 역할: 프론트엔드, 데이터 수집, 유니티로 배경 제작
+  - 역할: 프론트엔드, 데이터 수집, 유니티로 배경 제작, 중간 발표자, UI UX 기획
 
 
+
+- AbuyZ [22.10.10 - 22.11.21]
+  - 삼성청년SW아카데미 7기 자율(롯데정보통신기업연계)
+
+  - GitHub with README
+    - 코드 및 서비스(팀별)
+      - 노션: https://www.notion.so/abuyz-f445b44735144a22bf7fc0e61646cfb3
+      - github: https://github.com/zzieunchoi/AbuyZ
+
+  - 핵심컨셉: React, Next.js, javascript, SpringBoot, JPA, MYSQL(DB) 등을 이용한 쇼핑몰 플랫폼
+  - 역할: 프론트엔드, 중간 - 최종 발표, UI UX 기획
 
 
 
